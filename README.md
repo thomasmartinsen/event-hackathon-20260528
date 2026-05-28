@@ -1,1 +1,1 @@
-# event-hackathon-20260528
+# Agentic Engineering using GitHub Copilot
