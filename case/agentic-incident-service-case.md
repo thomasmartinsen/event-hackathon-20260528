@@ -58,7 +58,7 @@ Create a short “Getting Started” section for README that includes: prerequis
 ```
 
 ### Expected outputs
-- AppHost launches API + WebApp. citeturn5search250turn5search264
+- AppHost launches API + WebApp.
 - Team can open a PR.
 
 ---
@@ -121,7 +121,7 @@ Review this spec like a tech lead. List missing constraints, unclear acceptance 
 ```
 
 #### Expected outputs (you check)
-- `.github/copilot-instructions.md` exists and is readable. citeturn1search79turn1search1
+- `.github/copilot-instructions.md` exists and is readable. 
 - `/specs/...` has acceptance criteria + test plan. 
 - PR includes “spec first” changes.
 
@@ -197,7 +197,7 @@ Here is the failing test output (paste). Explain the root cause, propose the sma
 
 #### Expected outputs
 - Tests exist and pass locally.
-- CI enforces tests. citeturn5file278turn1search1
+- CI enforces tests. 
 
 ---
 
@@ -228,7 +228,7 @@ Suggest concrete changes to reduce risk (no sensitive logs, validate request pay
 #### Expected outputs
 - `.env.example` present.
 - PR template includes security checks.
-- Security workflow exists or org-level controls are enabled. citeturn1search71turn1search74
+- Security workflow exists or org-level controls are enabled. 
 
 ---
 
